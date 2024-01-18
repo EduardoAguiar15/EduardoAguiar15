@@ -16,6 +16,7 @@ Olá, eu sou o Eduardo, um desenvolvedor de software full stack apaixonado por t
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoAguiar15&theme=transparent" />
   </a>
   </p>
+<br />
 
 <h2 align="center">Tecnologias que eu uso:</h2>
 <br />
