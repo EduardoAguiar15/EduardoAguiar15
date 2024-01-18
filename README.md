@@ -1,6 +1,6 @@
 <h1 align="center">Bem-vindo(a) ao meu GitHub! 👋</h1>
 <br />
-<p align="center">
+<p>
 Olá, eu sou o Eduardo, um desenvolvedor de software full stack apaixonado por tecnologia. Minha jornada na programação começou com um curso de desenvolvimento front-end essencial pela Cursos Pós Rio, onde pude desenvolver algumas habilidades, como: HTML, CSS, JavaScript e Bootstrap. Logo no começo do curso, pude perceber que tinha encontrado o meu objetivo de vida. Então, tratei logo de ingressar em um curso superior de Análise e Desenvolvimento de Sistemas pela Cândido Mendes. Recentemente, concluí uma residência em Desenvolvimento de Software pelo SERRATEC. Nesse programa, eu pude desenvolver algumas soft skills, como comunicação, trabalho em equipe, resolução de problemas e adaptabilidade. Além disso, eu pude aprender diversas tecnologias, como Node.js, React, React Native, TypeScript, Java, Spring Framework, SQL, versionamento de código etc. Meu objetivo é me tornar a cada dia um profissional melhor, mais competente e criativo, e sempre trazendo as melhores soluções com qualidade e inovação.
 </p>
 <br />
