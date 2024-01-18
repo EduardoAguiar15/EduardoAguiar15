@@ -1,6 +1,6 @@
 ### Bem-vindo(a) ao meu GitHub! 👋
 
-Olá, eu sou o Eduardo, um desenvolvedor de software full stack 
+Olá, eu sou o Eduardo, um desenvolvedor de software full stack apaixonado por tecnologia. Minha jornada na programação começou com um curso de desenvolvimento front-end essencial pela Cursos Pós Rio, onde pude desenvolver algumas habilidades, como: HTML, CSS, JavaScript e Bootstrap. Logo no começo do curso, pude perceber que tinha encontrado o meu objetivo de vida. Então, tratei logo de ingressar em um curso superior de Análise e Desenvolvimento de Sistemas pela Cândido Mendes, onde atualmente estou cursando o 4° período. Recentemente, concluí uma residência em Desenvolvimento de Software pelo SERRATEC, uma instituição muito bem conceituada na região serrana do RJ. Nesse programa, eu pude desenvolver algumas soft skills, como comunicação, trabalho em equipe, resolução de problemas e adaptabilidade. Além disso, eu pude aprender diversas tecnologias, como Node.js, React, React Native, TypeScript, Java, Spring Framework, SQL, versionamento de código etc. Meu objetivo é me tornar a cada dia um profissional melhor, mais competente e criativo, e sempre trazendo as melhores soluções com qualidade e inovação.
 
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,16 +14,6 @@ Olá, eu sou o Eduardo, um desenvolvedor de software full stack
 ![Figma](https://img.shields.io/badge/-Figma-1D1D1B?style=for-the-badge&logoColor=white&labelColor=grey)
 ![Postman](https://img.shields.io/badge/-Postman-FCA121?style=for-the-badge&logo=postman&logoColor=white)
 
-Databases:
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-Workstation Tools:
-
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Spring Tool Suite](https://img.shields.io/badge/Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse)
 <!--
 **EduardoAguiar15/EduardoAguiar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
