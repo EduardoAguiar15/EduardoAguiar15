@@ -15,12 +15,47 @@ Olá, eu sou o Eduardo, um desenvolvedor de software full stack apaixonado por t
   <a href="https://github.com/EduardoAguiar15">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoAguiar15&theme=transparent" />
   </a>
+   <a href="https://github.com/EduardoAguiar15">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduardoAguiar15&theme=transparent" />
+  </a>
   </p>
 <br />
 
 <h2 align="center">Tecnologias que eu uso:</h2>
 <br />
 
+ <a href="https://github.com/EduardoAguiar15">
+    <img src="https://www.flaticon.com/free-icon/java_226777?term=java&page=1&position=4&origin=search&related_id=226777" />
+  </a>
+ <a href="https://github.com/EduardoAguiar15">
+    <img src="https://user-images.githubusercontent.com/100203503/167860788-72093b39-19bd-40f7-991b-6ef9188128cf.png" />
+  </a> 
+  <a href="https://github.com/EduardoAguiar15">
+    <img src="https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=4&origin=search&related_id=5968292" />
+  </a> 
+  <a href="https://github.com/EduardoAguiar15">
+    <img src="https://www.flaticon.com/free-icon/typescript_5968381?term=typescript&page=1&position=1&origin=search&related_id=5968381" />
+  </a> 
+   <a href="https://github.com/EduardoAguiar15">
+    <img src="https://www.flaticon.com/free-icon/html-5_5968267?term=html&page=1&position=3&origin=search&related_id=5968267" />
+  </a> 
+  <a href="https://github.com/EduardoAguiar15">
+    <img src="https://www.flaticon.com/free-icon/css-3_5968242?term=css&page=1&position=3&origin=search&related_id=5968242" />
+  </a> 
+    <a href="https://github.com/EduardoAguiar15">
+    <img src="https://www.flaticon.com/free-icon/bootstrap_5968672?term=bootstrap&page=1&position=1&origin=search&related_id=5968672" />
+  </a> 
+  <a href="https://github.com/EduardoAguiar15">
+    <img src="https://www.flaticon.com/free-icon/physics_1126012?term=react&page=1&position=3&origin=search&related_id=1126012" />
+  </a> 
+    <a href="https://github.com/EduardoAguiar15">
+    <img src="https://www.flaticon.com/free-icon/nodejs_919825?term=nodejs&page=1&position=1&origin=search&related_id=919825" />
+  </a> 
+  <a href="https://github.com/EduardoAguiar15">
+    <img src="https://www.flaticon.com/free-icon/git_11518876?term=git&page=1&position=3&origin=search&related_id=11518876" />
+  </a> 
+
+  <!--
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,7 +67,7 @@ Olá, eu sou o Eduardo, um desenvolvedor de software full stack apaixonado por t
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=007396)
 ![Spring Framework](https://img.shields.io/badge/-Spring_Framework-brightgreen?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<!--
+
 **EduardoAguiar15/EduardoAguiar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
