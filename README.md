@@ -5,6 +5,18 @@ Olá, eu sou o Eduardo, um desenvolvedor de software full stack apaixonado por t
 </p>
 <br />
 
+<p align="center">
+  <a href="https://github.com/EduardoAguiar15">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoAguiar15&theme=transparent" />
+  </a>
+  <a href="https://github.com/EduardoAguiar15">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoAguiar15&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/EduardoAguiar15">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoAguiar15&theme=transparent" />
+  </a>
+  </p>
+<br />
 <h2 align="center">Tecnologias que eu uso:</h2>
 <br />
 
