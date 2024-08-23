@@ -1,8 +1,19 @@
 <h1 align="center">Bem-vindo(a) ao meu GitHub! 👋</h1>
 <br />
+
 <p>
-Olá, eu sou o Eduardo, um desenvolvedor de software full stack apaixonado por tecnologia. Minha jornada na programação começou com um curso de desenvolvimento front-end essencial pela Cursos Pós Rio, onde pude desenvolver algumas habilidades, como: HTML, CSS, JavaScript e Bootstrap. Logo no começo do curso, pude perceber que tinha encontrado o meu objetivo de vida. Então, tratei logo de ingressar em um curso superior de Análise e Desenvolvimento de Sistemas pela Cândido Mendes. Recentemente, concluí uma residência em Desenvolvimento de Software pelo SERRATEC. Nesse programa, eu pude desenvolver algumas soft skills, como comunicação, trabalho em equipe, resolução de problemas e adaptabilidade. Além disso, eu pude aprender diversas tecnologias, como Node.js, React, React Native, TypeScript, Java, Spring Framework, SQL, versionamento de código etc. Meu objetivo é me tornar a cada dia um profissional melhor, mais competente e criativo, e sempre trazendo as melhores soluções com qualidade e inovação.
+Olá, eu sou o Eduardo, um desenvolvedor full stack apaixonado por tecnologia. Minha caminhada na programação começou com um curso de desenvolvimento front-end pela Cursos Pós Rio, onde desenvolvi habilidades em HTML, CSS, JavaScript e Bootstrap. Logo no início, percebi que era isso que eu queria para minha vida, o que me levou a ingressar em um curso de Análise e Desenvolvimento de Sistemas pela Cândido Mendes.
 </p>
+<p>
+Recentemente, concluí uma residência em Desenvolvimento Fullstack pelo Parque Tecnológico SERRATEC. Durante esse programa, aperfeiçoei minhas soft skills, como comunicação, trabalho em equipe e resolução de problemas, além de aprender diversas tecnologias, como Node.js, React, React Native, TypeScript, Java, Spring Framework, SQL e versionamento de código.
+</p>
+<p>
+Logo após a residência, me aprofundei na área de qualidade de software, participando de um curso pela instituição FEST, onde aprendi sobre testes manuais e automatizados, uso de ferramentas de gestão como Trello e backlog, criação de relatórios, mapas mentais e muito mais.
+</p>
+<p>
+Atualmente, estou me aprofundando mais nos estudos de React JS.
+</p>
+
 <br />
 
 <p align="center">
