@@ -2,13 +2,13 @@
 <br />
 
 <p>
-Olá, eu sou o Eduardo, um desenvolvedor full stack apaixonado por tecnologia. Minha caminhada na programação começou com um curso de desenvolvimento front-end pela Cursos Pós Rio, onde desenvolvi habilidades em HTML, CSS, JavaScript e Bootstrap. Logo no início, percebi que era isso que eu queria para minha vida, o que me levou a ingressar em um curso de Análise e Desenvolvimento de Sistemas pela Cândido Mendes.
+Olá, eu sou o Eduardo, um desenvolvedor full stack apaixonado por tecnologia. Comecei minha caminhada com um curso de desenvolvimento front-end pela Cursos Pós Rio, onde desenvolvi habilidades em HTML, CSS, JavaScript e Bootstrap. Logo no início, percebi que queria isso para minha vida, o que me levou a ingressar em um curso de Análise e Desenvolvimento de Sistemas pela Cândido Mendes.
 </p>
 <p>
-Recentemente, concluí uma residência em Desenvolvimento Fullstack pelo Parque Tecnológico SERRATEC. Durante esse programa, aperfeiçoei minhas soft skills, como comunicação, trabalho em equipe e resolução de problemas, além de aprender diversas tecnologias, como Node.js, React, React Native, TypeScript, Java, Spring Framework, SQL e versionamento de código.
+Recentemente, concluí a residência em Desenvolvimento Fullstack no Parque Tecnológico SERRATEC. Durante esse programa, aperfeiçoei minhas soft skills, como comunicação, trabalho em equipe e resolução de problemas, além de aprender diversas tecnologias, como Node.js, React, React Native, TypeScript, Java, Spring Framework, SQL e versionamento de código.
 </p>
 <p>
-Após a residência, me aprofundei na área de qualidade de software, participando de um curso pela instituição FEST, onde aprendi sobre testes manuais e automatizados, uso de ferramentas de gestão como Trello e backlog, criação de relatórios, mapas mentais e muito mais. Atualmente, estou me dedicando mais aos estudos do inglês. Meu objetivo é me tornar a cada dia um profissional melhor, mais competente e criativo, sempre buscando trazer as melhores soluções com qualidade e inovação.
+Após a residência, me aprofundei em qualidade de software, participando de um curso pela instituição FEST, onde aprendi sobre testes manuais e automatizados, uso de ferramentas de gestão como Trello e backlog, criação de relatórios, mapas mentais e muito mais. Atualmente, estou focado em melhorar meu inglês. Meu objetivo é me tornar um profissional melhor, mais competente e criativo, buscando trazer as melhores soluções com qualidade e inovação.
 </p>
 
 <br />
